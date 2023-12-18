@@ -69,6 +69,6 @@ This implementation is inspired by the ResNet architecture proposed in the paper
 
 - Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun. ["Deep Residual Learning for Image Recognition"](https://arxiv.org/abs/1512.03385).
 
-For additional insights, check out my Medium article on this implementation: [Link to Your Medium Article](own_medium_article_link)
+For additional insights, check out my Medium article on this implementation: [Unveiling the Power of ResNet101v2: A Deep Dive into Image Classification](https://medium.com/@mtburakk/unveiling-the-power-of-resnet101v2-a-deep-dive-into-image-classification-d1a10ad02f29)
 
 Feel free to contribute to this repository or open issues if you encounter any problems.
